@@ -14,9 +14,6 @@ TZ Plus Gallery - Display social gallery like Facebook, Flickr, Instagram and Go
 
 TZ Plus Gallery display all your albums from social source Facebook, Flickr, Instagram, Google+ on your site.
  You can post your photos every where, every time from your mobile device to Facebook, Flickr, Instagram and Google+. it will auto added on your website.
-
- [youtube https://www.youtube.com/watch?v=kJPisKHOCEE]
-
 <h4>Features</h4>
 <ul>
 <li>Display your albums from online source like Facebook, Instagram, Google + or Flickr to your site's gallery.</li>
@@ -44,11 +41,11 @@ TZ Plus Gallery display all your albums from social source Facebook, Flickr, Ins
 
 = How to add Flickr Albums? =
 
-[youtube https://www.youtube.com/watch?v=7rxgcHemo4g]
+[youtube https://www.youtube.com/watch?v=1yenWbddNmY]
 
 = How to add Instagram Albums? =
 
-[youtube https://www.youtube.com/watch?v=mdlxe_XUFG4]
+[youtube https://www.youtube.com/watch?v=LP7zcPFESTU]
 
 = How to add Google+ Albums? =
 
