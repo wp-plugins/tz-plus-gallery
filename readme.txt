@@ -36,14 +36,21 @@ TZ Plus Gallery display all your albums from social source Facebook, Flickr, Ins
 
 == Frequently Asked Questions ==
 
-= How to  find Facebook ID? =
+= How to  add Facebook Fanpage Albums? =
 
-You can add Facebook album and you will see tutorial to find Facebook ID
+<iframe width="640" height="360" src="https://www.youtube.com/embed/kJPisKHOCEE?rel=0" frameborder="0" allowfullscreen></iframe>
 
-= How to add Flickr Album =
+= How to add Flickr Albums? =
 
-You can see tutorial to add Flickr Album in Plugin/About TZ Gallery/User Guide
+<iframe width="640" height="360" src="https://www.youtube.com/embed/7rxgcHemo4g" frameborder="0" allowfullscreen></iframe>
 
+= How to add Instagram Albums? =
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/mdlxe_XUFG4?rel=0" frameborder="0" allowfullscreen></iframe>
+
+= How to add Google+ Albums? =
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/YFHPPALjGcY?rel=0" frameborder="0" allowfullscreen></iframe>
  
 == Screenshots ==
 
