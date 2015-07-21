@@ -38,6 +38,8 @@ TZ Plus Gallery display all your albums from social source Facebook, Flickr, Ins
 
 = How to  add Facebook Fanpage Albums? =
 
+You can see <a hred="https://youtu.be/kJPisKHOCEE" target="_blank">Video Facebook Add Albums.<a>
+
 <iframe width="640" height="360" src="https://www.youtube.com/embed/kJPisKHOCEE?rel=0" frameborder="0" allowfullscreen></iframe>
 
 = How to add Flickr Albums? =
