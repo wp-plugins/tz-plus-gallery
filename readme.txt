@@ -40,25 +40,25 @@ TZ Plus Gallery display all your albums from social source Facebook, Flickr, Ins
 
 You can see <a hred="https://youtu.be/kJPisKHOCEE" target="_blank">Video Facebook Add Albums.<a>
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/kJPisKHOCEE?rel=0" frameborder="0" allowfullscreen></iframe>
 
 = How to add Flickr Albums? =
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/7rxgcHemo4g" frameborder="0" allowfullscreen></iframe>
 
 = How to add Instagram Albums? =
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/mdlxe_XUFG4?rel=0" frameborder="0" allowfullscreen></iframe>
 
 = How to add Google+ Albums? =
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/YFHPPALjGcY?rel=0" frameborder="0" allowfullscreen></iframe>
  
 == Screenshots ==
 
-1. /trunk/screenshot-1.jpg
-2. /trunk/screenshot-2.jpg
-3. /trunk/screenshot-3.jpg
+1. /asset/create_album.jpg
+1. /asset/content_album.jpg
+1. /asset/album_list.jpg
+1. /asset/insert.jpg
+1. /asset/google_album.jpg
+1. /asset/instagram_album.jpg
+1. /asset/detail.jpg
 
 == Changelog ==
 
