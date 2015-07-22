@@ -29,9 +29,9 @@ TZ Plus Gallery display all your albums from social source Facebook, Flickr, Ins
 
 <h4>Demo</h4>
 
-[Facebook Fanpage Albums](http://wordpress.templaza.net/plugins/ "Facebook Fanpage Albums").
+[Facebook Fanpage Albums](http://wordpress.templaza.net/plugins/ "Facebook Fanpage Albums")
 <br>
-[Google+ Albums](http://wordpress.templaza.net/plugins/google-album/ "Google+ Albums").
+[Google+ Albums](http://wordpress.templaza.net/plugins/google-album/ "Google+ Albums")
 <br>
 [Instagram Albums](http://wordpress.templaza.net/plugins/instagram-album/ "Instagram Albums")
 <br>
