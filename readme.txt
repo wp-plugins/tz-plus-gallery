@@ -27,6 +27,14 @@ TZ Plus Gallery display all your albums from social source Facebook, Flickr, Ins
 <li>Options padding of albums or photos.</li>
 </ul>
 
+<h4>Demo</h4>
+<ul>
+<li>[Facebook Fanpage Albums](http://wordpress.templaza.net/plugins/)</li>
+<li>[Google+ Albums](http://wordpress.templaza.net/plugins/google-album/)</li>
+<li>[Instagram Albums](http://wordpress.templaza.net/plugins/instagram-album/)</li>
+<li>[Flickr Albums](http://wordpress.templaza.net/plugins/flickr-album/)</li>
+</ul>
+
 
 == Installation ==
 
