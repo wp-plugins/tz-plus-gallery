@@ -39,8 +39,27 @@ TZ Plus Gallery display all your albums from social source Facebook, Flickr, Ins
 
 == Installation ==
 
-1. Go to the menu 'Plugins' -> 'Add new' and search for 'TZ Plus Gallery'
-2. Click 'install' and active.
+<h4>1. Automatic installation:</h4>
+
+The simplest way to install is to click on 'Plugins' then 'Add new' and type 'TZ Plus Gallery' in the search field.
+
+<h4>2. Manual installation 1:</h4>
+<ol>
+<li>Login to your website and go to the Plugins.</li>
+<li>Click the Add New button.</li>
+<li>Under Install Plugins, click the Upload Plugin.</li>
+<li>Select the plugin zip file (tz-plus-gallery.zip) from your computer then click the Install Now button.</li>
+<li>You should see a message stating that the plugin was installed successfully.</li>
+<li>Click the Activate Plugin.</li>
+</ol>
+
+<h4>2. Manual installation 2:</h4>
+<ol>
+<li>You should have access to the server where WordPress is installed.</li>
+<li>Upload the plugin zip file (tz-plus-gallery.zip) up to your server path(/wp-content/plugins/) and unzip it here.</li>
+<li>Login to your website and go to the Plugins section of your admin panel.</li>
+<li>Look for "TZ PlusGallery" and click Activate.</li>
+</ol>
 
 == Frequently Asked Questions ==
 
