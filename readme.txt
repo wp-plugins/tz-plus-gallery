@@ -45,7 +45,7 @@ TZ Plus Gallery display all your albums from social source Facebook, Flickr, Ins
 
 = How to add Instagram Albums? =
 
-[youtube https://www.youtube.com/watch?v=LP7zcPFESTU]
+[youtube https://www.youtube.com/watch?v=4KbqBXED_b8]
 
 = How to add Google+ Albums? =
 
