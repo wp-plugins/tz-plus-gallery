@@ -1,5 +1,5 @@
 === TZ Plus Gallery ===
-Contributors: tuyennv , templaza
+Contributors: tuyennv, templaza
 Donate link: http://www.templaza.com/
 Tags: plugins, social plugin, gallery, social gallery, facebook album, google album, instagram album, flickr album.
 Requires at least: 3.0.1
