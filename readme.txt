@@ -91,10 +91,18 @@ The simplest way to install is to click on 'Plugins' then 'Add new' and type 'TZ
 
 == Changelog ==
 
+= 1.0.1 =
+* Fixed Plugin folder name.
+* Fixed add multiple albums in Include and Exclude albums.
+
 = 1.0.0 =
 * Start Version
 
 == Upgrade Notice ==
+
+= 1.0.1 =
+* Fixed Plugin folder name.
+* Fixed add multiple albums in Include and Exclude albums.
 
 = 1.0.0 =
 * Start Version
