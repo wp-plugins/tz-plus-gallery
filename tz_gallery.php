@@ -44,7 +44,7 @@ function tz_gallery_options_panel()
 function tz_gallery_addto_header() {
     ?>
     <script type="text/javascript">
-        var imgpath = "<?php echo plugins_url();?>/tz_plusgallery/";
+        var imgpath = "<?php echo plugins_url();?>/tz-plus-gallery/";
     </script>
 <?php
 }
