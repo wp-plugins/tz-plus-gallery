@@ -143,14 +143,15 @@ function tz_gallery_apply($id)
         return '';
     }
 
-
+    $album_include = str_replace(' ','',$_POST["album_include"]);
+    $album_exclude = str_replace(' ','',$_POST["album_exclude"]);
 
     $wpdb->query($wpdb->prepare("UPDATE ".$wpdb->prefix."tz_plusgallery_item SET  name = '%s'  WHERE ID = %d ", $_POST["name"], $id));
     $wpdb->query($wpdb->prepare("UPDATE ".$wpdb->prefix."tz_plusgallery_item SET  data_userid = '%s'  WHERE ID = %d ", $_POST["data_userid"], $id));
     $wpdb->query($wpdb->prepare("UPDATE ".$wpdb->prefix."tz_plusgallery_item SET  album_type = '%s'  WHERE ID = %d ", $_POST["album_type"], $id));
     $wpdb->query($wpdb->prepare("UPDATE ".$wpdb->prefix."tz_plusgallery_item SET  album_id = '%s'  WHERE ID = %d ", $_POST["album_id"], $id));
-    $wpdb->query($wpdb->prepare("UPDATE ".$wpdb->prefix."tz_plusgallery_item SET  album_include = '%s'  WHERE ID = %d ", $_POST["album_include"], $id));
-    $wpdb->query($wpdb->prepare("UPDATE ".$wpdb->prefix."tz_plusgallery_item SET  album_exclude = '%s'  WHERE ID = %d ", $_POST["album_exclude"], $id));
+    $wpdb->query($wpdb->prepare("UPDATE ".$wpdb->prefix."tz_plusgallery_item SET  album_include = '%s'  WHERE ID = %d ", $album_include, $id));
+    $wpdb->query($wpdb->prepare("UPDATE ".$wpdb->prefix."tz_plusgallery_item SET  album_exclude = '%s'  WHERE ID = %d ", $album_exclude, $id));
     $wpdb->query($wpdb->prepare("UPDATE ".$wpdb->prefix."tz_plusgallery_item SET  data_api_key = '%s'  WHERE ID = %d ", $_POST["data_api_key"], $id));
     $wpdb->query($wpdb->prepare("UPDATE ".$wpdb->prefix."tz_plusgallery_item SET  data_limit = '%s'  WHERE ID = %d ", $_POST["data_limit"], $id));
     $wpdb->query($wpdb->prepare("UPDATE ".$wpdb->prefix."tz_plusgallery_item SET  album_limit = '%s'  WHERE ID = %d ", $_POST["album_limit"], $id));

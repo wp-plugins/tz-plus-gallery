@@ -1,5 +1,5 @@
 === TZ Plus Gallery ===
-Contributors: tuyennv, templaza
+Contributors: tuyennv , templaza
 Donate link: http://www.templaza.com/
 Tags: plugins, social plugin, gallery, social gallery, facebook album, google album, instagram album, flickr album.
 Requires at least: 3.0.1
@@ -14,7 +14,6 @@ TZ Plus Gallery - Display social gallery like Facebook, Flickr, Instagram and Go
 
 TZ Plus Gallery display all your albums from social source Facebook, Flickr, Instagram, Google+ on your site.
  You can post your photos every where, every time from your mobile device to Facebook, Flickr, Instagram and Google+. it will auto added on your website.
-
 <h4>Features</h4>
 <ul>
 <li>Display your albums from online source like Facebook, Instagram, Google + or Flickr to your site's gallery.</li>
@@ -28,28 +27,67 @@ TZ Plus Gallery display all your albums from social source Facebook, Flickr, Ins
 <li>Options padding of albums or photos.</li>
 </ul>
 
+<h4>Demo</h4>
+
+[Facebook Fanpage Albums](http://wordpress.templaza.net/plugins/ "Facebook Fanpage Albums")
+<br>
+[Google+ Albums](http://wordpress.templaza.net/plugins/google-album/ "Google+ Albums")
+<br>
+[Instagram Albums](http://wordpress.templaza.net/plugins/instagram-album/ "Instagram Albums")
+<br>
+[Flickr Albums](http://wordpress.templaza.net/plugins/flickr-album/ "Flickr Albums")
 
 == Installation ==
 
-1. Go to the menu 'Plugins' -> 'Add new' and search for 'TZ Plus Gallery'
-2. Click 'install' and active.
+<h4>1. Automatic installation:</h4>
+
+The simplest way to install is to click on 'Plugins' then 'Add new' and type 'TZ Plus Gallery' in the search field.
+
+<h4>2. Manual installation 1:</h4>
+<ol>
+<li>Login to your website and go to the Plugins.</li>
+<li>Click the Add New button.</li>
+<li>Under Install Plugins, click the Upload Plugin.</li>
+<li>Select the plugin zip file (tz-plus-gallery.zip) from your computer then click the Install Now button.</li>
+<li>You should see a message stating that the plugin was installed successfully.</li>
+<li>Click the Activate Plugin.</li>
+</ol>
+
+<h4>2. Manual installation 2:</h4>
+<ol>
+<li>You should have access to the server where WordPress is installed.</li>
+<li>Upload the plugin zip file (tz-plus-gallery.zip) up to your server path(/wp-content/plugins/) and unzip it here.</li>
+<li>Login to your website and go to the Plugins section of your admin panel.</li>
+<li>Look for "TZ PlusGallery" and click Activate.</li>
+</ol>
 
 == Frequently Asked Questions ==
 
-= How to  find Facebook ID? =
+= How to  add Facebook Fanpage Albums? =
 
-You can add Facebook album and you will see tutorial to find Facebook ID
+[youtube https://www.youtube.com/watch?v=kJPisKHOCEE]
 
-= How to add Flickr Album =
+= How to add Flickr Albums? =
 
-You can see tutorial to add Flickr Album in Plugin/About TZ Gallery/User Guide
+[youtube https://www.youtube.com/watch?v=1yenWbddNmY]
 
+= How to add Instagram Albums? =
+
+[youtube https://www.youtube.com/watch?v=4KbqBXED_b8]
+
+= How to add Google+ Albums? =
+
+[youtube https://www.youtube.com/watch?v=YFHPPALjGcY]
  
 == Screenshots ==
 
-1. /trunk/screenshot-1.jpg
-2. /trunk/screenshot-2.jpg
-3. /trunk/screenshot-3.jpg
+1. Create Albums
+2. Insert Album.
+3. Albums list.
+4. Insert Albums in post or page.
+5. Instagram albums display.
+6. Google+ Albums display.
+7. View photo in album.
 
 == Changelog ==
 
