@@ -25,7 +25,7 @@ function front_end_base_album($album_ids,$album_name, $album_type, $album_id,$al
     </style>
 
 
-    <?php
+    <?php var_dump($album_data_type);
 if($album_type=='googleplus'){ ?>
     <div id="plusgallery<?php echo esc_attr($album_ids);?>" class="plusgallery"
          data-userid="<?php echo esc_attr($album_id); ?>"
@@ -38,6 +38,11 @@ if($album_type=='googleplus'){ ?>
             data-exclude="<?php echo esc_attr($album_exclude); ?>"
             data-album-limit="<?php echo esc_attr($album_limit); ?>"
             data-album-title="true"
+            data-limit="<?php echo esc_attr($album_single_limit); ?>"
+        <?php } ?>
+
+        <?php if($album_data_type=='all_albums'){ ?>
+            data-limit="<?php echo esc_attr($album_single_limit); ?>"
         <?php } ?>
          data-type="google">
 
@@ -69,6 +74,10 @@ if($album_type=='flickr'){?>
              data-exclude="<?php echo esc_attr($album_exclude); ?>"
              data-album-limit="<?php echo esc_attr($album_limit); ?>"
              data-album-title="true"
+             data-limit="<?php echo esc_attr($album_single_limit); ?>"
+         <?php } ?>
+        <?php if($album_data_type=='all_albums'){ ?>
+            data-limit="<?php echo esc_attr($album_single_limit); ?>"
          <?php } ?>
              data-api-key="c07f724ab7ed6a1b01b799fe753c6d13"
 
@@ -90,7 +99,11 @@ if($album_type=='facebook'){ ?>
              data-exclude="<?php echo esc_attr($album_exclude); ?>"
              data-album-limit="<?php echo esc_attr($album_limit); ?>"
              data-album-title="true"
+             data-limit="<?php echo esc_attr($album_single_limit); ?>"
          <?php } ?>
+        <?php if($album_data_type=='all_albums'){ ?>
+            data-limit="<?php echo esc_attr($album_single_limit); ?>"
+        <?php } ?>
             data-access-token="150849908413827|uYDHoXrvPZOLkQ-zRz_XoYdEeYM"
              data-type="facebook">
 

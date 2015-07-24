@@ -3,7 +3,7 @@
 Plugin Name: TZ PlusGallery
 Plugin URI: http://templaza.com
 Description: TZ PlusGallery get your album from your facebook, Google plus, wordpress post.
-Version: 1.0.1
+Version: 1.0.2
 Author: tuyennv, templaza
 License: GNU/GPLv3 http://www.gnu.org/licenses/gpl-3.0.html
 */
