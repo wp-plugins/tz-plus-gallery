@@ -25,7 +25,7 @@ function front_end_base_album($album_ids,$album_name, $album_type, $album_id,$al
     </style>
 
 
-    <?php var_dump($album_data_type);
+    <?php 
 if($album_type=='googleplus'){ ?>
     <div id="plusgallery<?php echo esc_attr($album_ids);?>" class="plusgallery"
          data-userid="<?php echo esc_attr($album_id); ?>"
